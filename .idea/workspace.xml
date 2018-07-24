@@ -2,81 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13c32bca-bdda-41e1-8b32-8bbfb740e3d9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/libraries/kafka_2_12_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/libraries/kafka_clients_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/libraries/scala_library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/Kafka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/avro/AvroDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/avro/AvroSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/avro/AvroStockQuotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/avro/TopicEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/connector/FileSourceConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/AvroQuotationConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/CommonConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/ConsumerPatitionRangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/HighLevelConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/KafkaConsumerExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/KafkaConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/KafkaConsumerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/consumer/KafkaSimpleConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/dto/StockQuotationInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/producer/AvroQuotationProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/producer/KafkaProducerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/producer/KafkaProducerWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/producer/MultiThreadProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/producer/QuotationProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/producer/StockPartitionor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/topic/TopicManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/AggregateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/BlackListChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/IpBlackListProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/JoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/KStreamOutputDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/KTableAggregateProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/KTableOutputDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/KTableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/StockRealTimeRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/StockTradeMockBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/TransformationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter7/streams/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-action/src/main/resources/stock_quotation.avsc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-log4j/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-log4j/src/main/java/com/kafka/action/log4j/Log4jProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-log4j/src/main/java/com/kafka/action/log4j/LogAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-log4j/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-log4j/src/main/webapp/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/src/main/java/com/kafka/action/spark/offline/job/StockStrategyCalculateJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/src/main/java/com/kafka/action/spark/offline/model/StockInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/src/main/java/com/kafka/action/spark/online/job/WordsTopSearchJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spark/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/java/com/kafka/action/chapter6/spring/consumer/SpringKafkaConsumerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/java/com/kafka/action/chapter6/spring/controller/SpringKafkaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/java/com/kafka/action/chapter6/spring/producer/SpringKafkaProducerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/env/dev/kafka.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/env/dev/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/env/online/kafka.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/env/online/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/spring/application_context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/spring/consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/resources/spring/producer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/kafka-spring/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kafka/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/libraries/kafka_2_12_1_1_0_sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,24 +20,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Kafka/kafka-action/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <file leaf-file-name="TopicManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/topic/TopicManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="267">
+              <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopicManager.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/topic/TopicManager.java">
+      <file leaf-file-name="AdminUtils.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0-sources.jar!/kafka/admin/AdminUtils.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="130" column="44" lean-forward="true" selection-start-line="130" selection-start-column="44" selection-end-line="130" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="248">
+              <caret line="604" column="15" lean-forward="true" selection-start-line="604" selection-start-column="15" selection-end-line="604" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Properties.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Properties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hashtable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Hashtable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="521" column="29" selection-start-line="521" selection-start-column="29" selection-end-line="521" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -151,43 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="5003" column="19" selection-start-line="5003" selection-start-column="19" selection-end-line="5003" selection-end-column="19" />
-              <folding>
-                <element signature="e#223144#223145#0" expanded="true" />
-                <element signature="e#223197#223198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StreamSupport.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/StreamSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AdminUtils.class" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar!/kafka/admin/AdminUtils.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="151">
+              <caret line="32" column="105" selection-start-line="32" selection-start-column="105" selection-end-line="32" selection-end-column="105" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Kafka/kafka-log4j/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <file leaf-file-name="AdminUtilities.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar!/kafka/admin/AdminUtilities.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="57">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -201,10 +122,14 @@
       </list>
     </option>
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>scala</find>
       <find>slf4j.version</find>
+      <find>modifyTopicConfig</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -426,32 +351,6 @@
               <item name="kafka" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="kafka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="kafka_2.12-1.1.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="kafka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="kafka_2.12-1.1.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="kafka_2.12-1.1.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kafka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="kafka_2.12-1.1.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="kafka_2.12-1.1.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kafka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="kafka_2.12-1.1.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="kafka_2.12-1.1.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -463,9 +362,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="mapAsScalaMapConverter&#9;null&#9;null&#10;AdminUtils&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0-sources.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -540,12 +440,20 @@
       <workItem from="1531278844199" duration="2386000" />
       <workItem from="1531359291315" duration="1203000" />
       <workItem from="1531391517980" duration="1211000" />
-      <workItem from="1532412940969" duration="8295000" />
+      <workItem from="1532412940969" duration="9694000" />
     </task>
+    <task id="LOCAL-00001" summary="add kafka dem0">
+      <created>1532426566242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532426566242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13095000" />
+    <option name="totallyTimeSpent" value="14494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="817" extended-state="6" />
@@ -571,7 +479,7 @@
       <window_info anchor="bottom" id="Run" order="3" weight="0.32794118" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.22117962" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22117962" />
       <window_info id="Web" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -582,44 +490,16 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32794118" />
-      <window_info id="Image Layers" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.16085792" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22117962" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add kafka dem0" />
+    <option name="LAST_COMMIT_MESSAGE" value="add kafka dem0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Kafka/pom.xml">
@@ -719,13 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar!/kafka/admin/AdminUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/StreamSupport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -772,10 +645,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="521" column="29" selection-start-line="521" selection-start-column="29" selection-end-line="521" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar!/kafka/admin/AdminUtilities.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar!/kafka/admin/AdminUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="32" column="105" selection-start-line="32" selection-start-column="105" selection-end-line="32" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/kafka/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0-sources.jar!/kafka/admin/AdminUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="604" column="15" lean-forward="true" selection-start-line="604" selection-start-column="15" selection-end-line="604" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Kafka/kafka-action/src/main/java/com/kafka/action/chapter6/topic/TopicManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="130" column="44" lean-forward="true" selection-start-line="130" selection-start-column="44" selection-end-line="130" selection-end-column="44" />
+        <state relative-caret-position="267">
+          <caret line="102" column="33" lean-forward="true" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -788,7 +696,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>kafka-spring:war exploded</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -861,7 +769,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>kafka_2.12-1.1.0</last-edited>
+          <last-edited>kafka_2.12-1.1.0-sources</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

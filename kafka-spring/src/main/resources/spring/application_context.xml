@@ -23,7 +23,7 @@
 			</list>
 		</property>
 	</bean>
-	
+
 	<mvc:annotation-driven>
 		<mvc:message-converters>
 			<bean class="org.springframework.http.converter.StringHttpMessageConverter">
@@ -43,7 +43,7 @@
 	</mvc:annotation-driven>
 
 	<!-- for transaction -->
-	<tx:annotation-driven transaction-manager="txManager" />
+	<tx:annotation-driven />
 
 	<!-- for aop annotation -->
 	<aop:aspectj-autoproxy />

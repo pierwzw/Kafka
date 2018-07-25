@@ -132,10 +132,10 @@ public class TopicManager {
 					AdminUtils.addPartitions$default$6());*/
 			// {"3:1", "2:1"}
             java.util.Map<Object, ArrayList<Object>> map = new HashMap<>();
-            Map<Object, Seq<Object>> assignMap = JavaConverters.mapAsScalaMapConverter(map).asScala();
+            //Map<Object, Seq<Object>> assignMap = JavaConverters.mapAsScalaMapConverter(map).asScala();
 			String[] assignments = replicaAssignment.split(",");
-			Map<Object, Seq<Object>> existingAssignment =
-             AdminUtils.addPartitions(zkUtils, topic, assignMap, null, partition, AdminUtils.addPartitions$default$6(), true);
+			//Map<Object, Seq<Object>> existingAssignment =
+             //AdminUtils.addPartitions(zkUtils, topic, assignMap, null, partition, AdminUtils.addPartitions$default$6(), true);
         } catch (Exception e) {
 			e.printStackTrace();
 		} finally {

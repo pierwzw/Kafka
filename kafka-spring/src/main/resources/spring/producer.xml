@@ -22,7 +22,7 @@
         </constructor-arg>  
      </bean>  
        
-     <bean id="producerListener" class="com.kafka.action.chapter7.spring.producer.SpringKafkaProducerListener"/>
+     <bean id="producerListener" class="com.kafka.action.chapter6.spring.producer.SpringKafkaProducerListener"/>
      <!-- 创建kafkatemplate-->  
      <bean id="kafkaTemplate" class="org.springframework.kafka.core.KafkaTemplate"> 
         <!-- 指定ProducerFactory实例 -->

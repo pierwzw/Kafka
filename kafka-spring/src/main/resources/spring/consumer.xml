@@ -26,7 +26,7 @@
 	</bean>
 
 	<!-- 3.装配消息监听器，实现消费者具体业务处理逻辑-->
-	<bean id="consumerListener" class="com.kafka.action.chapter7.spring.consumer.SpringKafkaConsumerListener" />
+	<bean id="consumerListener" class="com.kafka.action.chapter6.spring.consumer.SpringKafkaConsumerListener" />
 
 	<!-- 4.消费者容器配置信息 -->
 	<bean id="containerProperties"
